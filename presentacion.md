@@ -9,11 +9,11 @@ Una vez conformado el grupo de trabajo nosotros los integrantes y que más adela
 ### ¿Quiénes integramos el grupo? 
 
 Este grupo está conformado por 5 personas: 
-  Daniel Ricardo Cifuentes Parra. 
-  Rojas Moreno Daniel Alejandro. 
-  Alexi Danilo Arevalo Betancourt. 
-  Ludwing Andres Jaimes Malagon. 
-  Laura Natalia Forero Torres.  
+ - Daniel Ricardo Cifuentes Parra. 
+ - Rojas Moreno Daniel Alejandro. 
+ - Alexi Danilo Arevalo Betancourt. 
+ - Ludwing Andres Jaimes Malagon. 
+ - Laura Natalia Forero Torres.  
  
 ### ¿Qué proyecto de software realizaremos para el Módulo y bajo qué lenguaje de programación? 
 
