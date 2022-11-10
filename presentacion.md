@@ -66,11 +66,11 @@ y como base de datos MySQL. También se utilizó Tomcat y MYSQLC junto a Docker 
 crear una conexión de red, y contenedores comunicados entre si.
 
 ### Roles en el equipo:
-• Daniel Ricardo Cifuentes Parra: Desarrollador y tester.
-• Daniel Alejandro Rojas Moreno: Documentación y tester.
-• Alexi Danilo Arevalo Betancourt: Desarrollador y actualización de código fuente.
-• Ludwing Andres Jaimes Malagon: Desarrollador Backend y tester.
-• Laura Natalia Forero Torres: Documentación y tester.
+- Daniel Ricardo Cifuentes Parra: Desarrollador y tester.
+- Daniel Alejandro Rojas Moreno: Documentación y tester.
+- Alexi Danilo Arevalo Betancourt: Desarrollador y actualización de código fuente.
+- Ludwing Andres Jaimes Malagon: Desarrollador Backend y tester.
+- Laura Natalia Forero Torres: Documentación y tester.
 
 ### Enlace del video explicativo de la entrega 1:
 https://www.youtube.com/watch?v=Decav6BpzlM
