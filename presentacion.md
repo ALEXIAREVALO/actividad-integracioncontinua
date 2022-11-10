@@ -45,8 +45,38 @@ Al adoptar la metodología antes mencionada sus roles, fácilmente se identifica
 
 Teniendo en cuenta también la metodología de desarrollo adquirida SCRUM los roles allí manejados se estarán rotando semanalmente de esta forma todo el equipo compacto cada semana ejercerá uno de ellos y así fortalecer nuestras habilidades. 
 
- 
 
-Bibliografia 
+### Bibliografia 
+
+
 
 Fuente consulta modelo DeVops y roles 	http://devops.com/ 
+
+
+## Semana Tres - Entregable Uno-inicio del Proyecto
+
+### Diagrama de Arquitectura General 
+
+![diagrama](https://user-images.githubusercontent.com/117111421/200987653-d7d1f91f-4659-4bb2-9ca2-34cc313cf79a.jpg)
+
+### Lenguaje seleccionado:
+El lenguaje de programación seleccionado para este proyecto es Java, sus frameworks son
+Spring Boot para la parte de desarrollo Backend y Angular referente al desarrollo Frontend
+y como base de datos MySQL. También se utilizó Tomcat y MYSQLC junto a Docker para
+crear una conexión de red, y contenedores comunicados entre si.
+
+### Roles en el equipo:
+• Daniel Ricardo Cifuentes Parra: Desarrollador y tester.
+• Daniel Alejandro Rojas Moreno: Documentación y tester.
+• Alexi Danilo Arevalo Betancourt: Desarrollador y actualización de código fuente.
+• Ludwing Andres Jaimes Malagon: Desarrollador Backend y tester.
+• Laura Natalia Forero Torres: Documentación y tester.
+
+### Enlace del video explicativo de la entrega 1:
+https://www.youtube.com/watch?v=Decav6BpzlM
+
+### Enlace GITHUB:
+https://github.com/ALEXIAREVALO/actividad-integracioncontinua
+
+
+
