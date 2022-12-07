@@ -9,6 +9,7 @@ public class Producto {
 	private double precio ;
 	private Date fechaCrear;
 	private Date fechaActualizar;
+	
 	public Producto(int id, String nombre, double cantidad, double precio, Date fechaCrear, Date fechaActualizar) {
 		super();
 		this.id = id;
